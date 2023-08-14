@@ -1,8 +1,6 @@
-package Hotel;
+package ExoHotel;
 
-import java.util.ArrayList;
-
-class Hotel {
+public class Hotel {
 
 
     private List<Client> clients;

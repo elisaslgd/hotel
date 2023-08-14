@@ -1,6 +1,6 @@
-package Hotel;
+package ExoHotel;
 
-class Chambre {
+public class Chambre {
     private int numero;
     private String statut;
     private int nombreLits;

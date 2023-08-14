@@ -1,6 +1,6 @@
-package Hotel;
+package ExoHotel;
 
-class Reservation {
+public class Reservation {
     private int identifiant;
     private String statut;
     private List<Chambre> chambres;

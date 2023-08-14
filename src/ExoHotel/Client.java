@@ -1,4 +1,4 @@
-package Hotel;
+package ExoHotel;
 
 public class Client {
     protected String identifiant;
